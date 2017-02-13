@@ -1,0 +1,13 @@
+{
+    "name": "kickasscommerce/examples",
+    "description": "Example code for a KickAssCommerce project",
+    "type": "project",
+    "license": "MIT",
+    "require": {},
+    "require-dev": {},
+    "autoload": {
+        "psr-4": {
+            "Example\\Project\\": "src/"
+        }
+    }
+}
