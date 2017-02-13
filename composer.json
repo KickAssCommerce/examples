@@ -7,7 +7,12 @@
     "require-dev": {},
     "autoload": {
         "psr-4": {
-            "Example\\Project\\": "src/"
+            "Example\\Project\\": "app/"
+        }
+    },
+    "extra": {
+        "installer-paths": {
+            "./app/{$name}": ["vendor/package"]
         }
     }
 }
