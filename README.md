@@ -4,6 +4,10 @@ You wanna build a KickAss e-commerce solution? Check out our kick ass examples o
 
 ## Requirements
 - kickasscommerce/kickasscommerce
+- ^ PHP 7.0
+
+## Installation
+To use an example place the code and directories in the `app` directory.
 
 ## Authors
 
